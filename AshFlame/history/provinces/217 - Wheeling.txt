@@ -1,0 +1,4 @@
+owner = UMW
+controller = UMW
+add_core = UMWtrade_goods = coal
+life_rating = 35

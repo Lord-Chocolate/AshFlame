@@ -1,0 +1,10 @@
+army = {
+	name = "Union Guard" 
+	location = 218
+	regiment = {
+		name = "Huntington Mountaineers"
+		type = irregulars
+		home = 218
+		}
+		
+}
