@@ -12,7 +12,7 @@ civilized = yes
 # Political reforms
 slavery = no_slavery
 upper_house_composition = state_equal_weight
-vote_franschise = universal_voting
+vote_franschise = universal_weighted_voting
 public_meetings = yes_meeting
 press_rights = free_press
 trade_unions = all_trade_unions
@@ -23,7 +23,7 @@ political_parties = gerrymandering
 wage_reform = no_minimum_wage
 work_hours = eight_hours
 safety_regulations = no_safety
-health_care = excellent_health_care
+health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions
 
